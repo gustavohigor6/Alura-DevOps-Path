@@ -1,0 +1,3 @@
+Implementar múltiplas ações em um único script para facilitar o processo de automação.
+Construir códigos que permitam ao usuário selecionar as tarefas que serão executadas pelo script.
+Selecionar e instalar um servidor web para hospedagem de sites e aplicativos.

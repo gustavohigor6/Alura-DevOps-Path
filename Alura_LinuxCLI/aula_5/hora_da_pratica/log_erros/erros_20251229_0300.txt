@@ -1,0 +1,5 @@
+Dec 29 02:27:30 gustavo kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Dec 29 02:27:30 gustavo kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Dec 29 02:27:30 gustavo kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Dec 29 02:27:38 gustavo login[786]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+Dec 29 02:27:38 gustavo login[786]: PAM adding faulty module: pam_lastlog.so
