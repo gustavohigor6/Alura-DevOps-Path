@@ -4,7 +4,7 @@
 ![Instituição](https://img.shields.io/badge/Curso-Alura-blue)
 
 ## 📚 Sobre
-Este repositório contém anotações, scripts e projetos práticos desenvolvidos durante a minha formação em **DevOps** pela Alura. O objetivo é documentar minha evolução em infraestrutura, automação e cultura DevOps.
+Este repositório contém anotações, scripts e projetos práticos desenvolvidos durante a minha formação em **DevOps** pela Alura. O objetivo é documentar minha evolução em infraestrutura, automação e cultura DevOps. *(Obs.: Readme pendente de atualização!)*
 
 ## 🗂️ Estrutura do Repositório
 O conteúdo está organizado por cursos, dentre eles com:
