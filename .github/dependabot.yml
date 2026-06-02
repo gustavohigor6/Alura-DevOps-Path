@@ -9,3 +9,7 @@ updates:
     directory: "./Alura_Working-GitHub/allbooks-aula-01" # Location of package manifests
     schedule:
       interval: "weekly"
+    groups:
+      atualizacoes-npm: # Nome do grupo
+        patterns: # Padrões
+          - "*" # Pega todas as bibliotecas e agrupa
