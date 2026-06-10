@@ -11,12 +11,12 @@ O conteúdo está organizado por cursos, dentre eles com:
 
 - **`/linux`**: Comandos essenciais, scripts Shell e permissões.
 <!-- - **`/docker`**: Dockerfiles, docker-compose e orquestração de containers.
-- **`/ci-cd`**: Pipelines de integração e entrega contínua (GitHub Actions/Jenkins).
-- **`/git`**: Fluxos de trabalho e versionamento. -->
+- **`/ci-cd`**: Pipelines de integração e entrega contínua (GitHub Actions/Jenkins).-->
+- **`/git`**: Fluxos de trabalho e versionamento.
 
 ## 🛠️ Tecnologias e Ferramentas
 * **OS:** Linux (Ubuntu/Debian)
-<!--* **Container:** Docker -->
+* **Container:** Docker
 * **Versionamento:** Git & GitHub
 * **Scripting:** Bash/Shell Script
 
@@ -27,3 +27,4 @@ O conteúdo está organizado por cursos, dentre eles com:
 
 ## 🔗 Links Úteis
 * [Meu LinkedIn](https://www.linkedin.com/in/gustavohigor6)
+* [Repositório - Docker Hub](https://hub.docker.com/repositories/gustavohigor6)
