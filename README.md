@@ -1,6 +1,6 @@
 # Trilha Alura: Começando em DevOps 🚀
 
-![Status](https://img.shields.io/badge/Status-Em_Andamento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![Instituição](https://img.shields.io/badge/Curso-Alura-blue)
 
 ## 📚 Sobre
